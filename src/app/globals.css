@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #282c34; /* Dark background */
+  --foreground: #61dafb; /* Light cyan text */
+  --accent: #ff6f61; /* Accent color */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #21252b; /* Darker background */
+    --foreground: #abb2bf; /* Lighter text color */
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Roboto", sans-serif; /* Modern font */
+  line-height: 1.5; /* Comfortable line height */
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--accent); /* Accent color for headings */
+}
+
+a {
+  color: var(--accent); /* Accent color for links */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+a:hover {
+  color: #21a1f1; /* Hover effect for links */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .rounded-lg {
+    border-radius: 0.5rem; /* More rounded corners */
+  }
+
+  .shadow-lg {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Stronger shadow */
+  }
+
+  .bg-gradient {
+    background: linear-gradient(
+      135deg,
+      #ff6f61,
+      #de6c5a
+    ); /* Gradient background */
+  }
+}

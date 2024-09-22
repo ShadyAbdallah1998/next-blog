@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Web Development",
+    "body": "Web development is a broad field that involves the creation of websites and web applications. It includes both front-end and back-end development...",
+    "image": "https://picsum.photos/500/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "The Importance of Responsive Design",
+    "body": "Responsive design ensures that your website looks good on all devices, from desktops to smartphones. This article explores the principles and techniques for building responsive websites...",
+    "image": "https://picsum.photos/500/300?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Understanding CSS Grid Layout",
+    "body": "CSS Grid is a powerful tool for creating complex web layouts. In this blog post, we will cover the basics of Grid and how to implement it in your projects...",
+    "image": "https://picsum.photos/500/300?random=3"
+  },
+  {
+    "id": 4,
+    "title": "JavaScript ES6 Features You Should Know",
+    "body": "JavaScript ES6 introduced many new features that make coding easier and more efficient. This post highlights some of the most important ones, such as arrow functions, promises, and template literals...",
+    "image": "https://picsum.photos/500/300?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Getting Started with React",
+    "body": "React is a popular JavaScript library for building user interfaces. If you're new to React, this guide will help you understand the basics and get started with your first project...",
+    "image": "https://picsum.photos/500/300?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Mastering JavaScript Promises",
+    "body": "Promises in JavaScript provide a more flexible and cleaner way to handle asynchronous operations. Learn how to master them in this post...",
+    "image": "https://picsum.photos/500/300?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Web Accessibility: Why It Matters",
+    "body": "Web accessibility ensures that your website is usable by as many people as possible, including those with disabilities. This article covers the best practices for accessibility...",
+    "image": "https://picsum.photos/500/300?random=7"
+  },
+  {
+    "id": 8,
+    "title": "A Beginner's Guide to Git and GitHub",
+    "body": "Version control is an essential tool for developers, and Git is one of the most widely used version control systems. Learn the basics of Git and GitHub in this post...",
+    "image": "https://picsum.photos/500/300?random=8"
+  },
+  {
+    "id": 9,
+    "title": "How to Deploy Your Website with Netlify",
+    "body": "Deploying a website can seem daunting, but with Netlify, it's a breeze. Learn how to deploy your static website easily using Netlify's platform...",
+    "image": "https://picsum.photos/500/300?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Introduction to TypeScript",
+    "body": "TypeScript adds optional static types to JavaScript, making it easier to maintain large codebases. This post introduces you to the basics of TypeScript and its benefits...",
+    "image": "https://picsum.photos/500/300?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Working with APIs in JavaScript",
+    "body": "APIs allow your application to interact with external data and services. In this blog post, we'll explore how to work with APIs using JavaScript...",
+    "image": "https://picsum.photos/500/300?random=11"
+  },
+  {
+    "id": 12,
+    "title": "How to Optimize Your Website for SEO",
+    "body": "Search engine optimization (SEO) is crucial for increasing the visibility of your website in search results. Learn how to optimize your website for SEO with these tips...",
+    "image": "https://picsum.photos/500/300?random=12"
+  },
+  {
+    "id": 13,
+    "title": "Node.js: Building a Simple API",
+    "body": "Node.js is a popular runtime for building fast and scalable applications. This tutorial shows how to create a simple API using Node.js and Express...",
+    "image": "https://picsum.photos/500/300?random=13"
+  },
+  {
+    "id": 14,
+    "title": "Best Practices for Writing Clean Code",
+    "body": "Writing clean, maintainable code is an important skill for developers. This post covers the best practices for writing clean code in JavaScript...",
+    "image": "https://picsum.photos/500/300?random=14"
+  },
+  {
+    "id": 15,
+    "title": "The Benefits of Using GraphQL",
+    "body": "GraphQL is a query language for APIs that allows you to request exactly the data you need. In this post, we explore the benefits of using GraphQL in your applications...",
+    "image": "https://picsum.photos/500/300?random=15"
+  }
+]
